@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #f6f1e7;
+}
+header {
+  border-block-end: 1px #000 double;
+}
+.container {
+  width: 1000px;
+  margin: 20px auto;
+}
+.a-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.p {
+  opacity: 0.5;
+}
+.li {
+  list-style: none;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+.li:hover {
+  cursor: pointer;
+  color: #a3311f;;
+  text-decoration: underline;
+}
+.ul {
+  display: flex;
+  margin-left: 280px;
+  gap: 20px;
+}
+.a {
+  text-decoration: none;
+  color: black;
+}
+.b {
+  color: #a3311f;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.h-a {
+  font-size: 50px;
+  letter-spacing: 2px;
+}
+.h-b {
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+.wrapper-d {
+  display: flex;
+  gap: 20px;
+}
+.img{
+  width: 325px;
+  height: 325px;
+  border-radius: 1000px;
+  margin-left: 100px;
+}
+.e-wrapper{
+  display: flex;
+  justify-content: space-between;
+}
+.c-wrapper {
+  margin-top: 35px;
+}
+.lit {
+  color: #a3311f;
+}
+.div-a {
+  display: flex;
+}
+.h-c {
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+.p-b {
+  margin-top: 7px;
+}
+.h-d {
+  font-size: 50px;
+  letter-spacing: 2px;
+  color: #a3311f;
+}
+.p-c {
+  margin-top: -10px;
+}
+.btn {
+  margin-top: 15px;
+  padding-inline: 14px;
+  padding-block: 14px;
+  letter-spacing: 1px;
+  font-size: 15px;
+}
+.btn:hover{
+  color: #ffffff;
+  background-color: #000;
+}
+.c{
+  padding-block-end: 60px;
+  border-block-end: solid 1px rgba(0, 0, 0, 0.5);
+}
+.h-e{
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+.h-g{
+  font-size: 35px;
+  letter-spacing: 1px;
+}
+/* h-a - big 
+   h-b - tiny
+   h-c - too little
+   h-f - little
+   h-e - normal
+   h-g - quite big
+   h-d - massive ; color: orange (to isolate)
+*/
+.p-a{
+  color: #a3311f;
+}
+.list{
+  list-style: none;
+  opacity: 0.5;
+}
+.ul-a{
+  display: flex;
+  margin-left: 315px;
+  gap: 20px;
+}
+.div-b{
+  margin-top: 20px;
+}
+.h-f{
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+/* opacity - opacity */
+
+.opacity{
+  opacity: 0.5;
+}
+
+/* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeection!!! */
+
+.h-s{
+  width: 50px;
+  padding-block-end: 20px;
+  border-bottom: 3px #a3311f solid;
+}
