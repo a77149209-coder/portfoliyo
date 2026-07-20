@@ -48,3 +48,64 @@ header {
   font-size: 50px;
   letter-spacing: 2px;
 }
+.div-b{
+  margin-top: 20px;
+}
+.p-a{
+  color: #a3311f;
+}
+.h-s{
+  width: 50px;
+  padding-block-end: 20px;
+  border-bottom: 3px #a3311f solid;
+}
+.h-b{
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+.h-e{
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+.list{
+  margin-left: 28px;
+  color: #a3311f;
+}
+.c{
+  color: #a3311f;
+}
+.wrapper{
+  display: flex;
+  gap: 20px;
+}
+.d-wrapper{
+  display: flex;
+}
+.c-b{
+  color: #000;
+}
+.img-a{
+  width: 450px;
+}
+.wrapper-a{
+  display: flex;
+  gap: 20px;
+}
+.c{
+  padding-block-end: 60px;
+  border-block-end: solid 1px rgba(0, 0, 0, 0.5);
+}
+.opacity{
+  opacity: .5;
+}
+.btn {
+  margin-top: 23px;
+  padding-inline: 22px;
+  padding-block: 14px;
+  letter-spacing: 1px;
+  font-size: 15px;
+}
+.btn:hover{
+  color: #ffffff;
+  background-color: #000;
+}

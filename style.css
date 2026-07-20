@@ -74,13 +74,14 @@ header {
 }
 .div-a {
   display: flex;
+  gap: 5px;
 }
 .h-c {
   font-size: 20px;
   letter-spacing: 1px;
 }
 .p-b {
-  margin-top: 7px;
+  margin-top: 5px;
 }
 .h-d {
   font-size: 50px;

@@ -55,3 +55,48 @@ header {
 .p-a{
   color: #a3311f;
 }
+.h-s{
+  width: 50px;
+  padding-block-end: 20px;
+  border-bottom: 3px #a3311f solid;
+}
+.h-b{
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+.h-e{
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+.images{
+  width: 100%;
+  height: 400px;
+}
+.list{
+  margin-left: 28px;
+  color: #a3311f;
+}
+.c{
+  color: #a3311f;
+}
+.wrapper{
+  display: flex;
+  gap: 20px;
+}
+.img-a{
+  height: 350px;
+  width: 500px;
+}
+.d-wrapper{
+  display: flex;
+}
+.c-b{
+  color: #000;
+}
+.opacity{
+  opacity: 0.5;
+}
+.c{
+  padding-block-end: 60px;
+  border-block-end: solid 1px rgba(0, 0, 0, 0.5);
+}
