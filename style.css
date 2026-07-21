@@ -10,7 +10,7 @@ header {
   border-block-end: 1px #000 double;
 }
 .container {
-  width: 1000px;
+  width: 910px;
   margin: 20px auto;
 }
 .a-wrapper {
@@ -32,7 +32,7 @@ header {
 }
 .ul {
   display: flex;
-  margin-left: 280px;
+  margin-left: 238px;
   gap: 20px;
 }
 .a {
@@ -49,12 +49,12 @@ header {
   letter-spacing: 2px;
 }
 .h-b {
-  font-size: 15px;
+  font-size: 20px;
   letter-spacing: 1px;
 }
 .wrapper-d {
   display: flex;
-  gap: 20px;
+  gap: 25px;
 }
 .img{
   width: 325px;
